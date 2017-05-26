@@ -1,3 +1,5 @@
+package bitwise;
+
 import java.util.BitSet;
 
 /**

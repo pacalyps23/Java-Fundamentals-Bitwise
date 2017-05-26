@@ -1,7 +1,7 @@
+import bitwise.LightSwitcher;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import sun.jvm.hotspot.utilities.Bits;
 
 import java.util.BitSet;
 
